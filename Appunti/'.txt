@@ -1,0 +1,15 @@
+alt96    `
+
+es senza bootstrap
+con bootstrap
+es css con moduli
+ajax con css
+ajax con bootstrap
+
+sito html
+sito bootstrap
+modulo
+modulo bootstrap
+modulo con express ajax
+
+git config --global core.excludesfiles "rottaGitIgnore"
