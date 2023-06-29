@@ -13,3 +13,5 @@ modulo bootstrap
 modulo con express ajax
 
 git config --global core.excludesfiles "rottaGitIgnore"
+
+USERNAME PASSWORD RUOLO(tendina) CHECKBOX

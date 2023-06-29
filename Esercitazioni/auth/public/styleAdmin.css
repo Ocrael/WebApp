@@ -1,0 +1,12 @@
+body {
+    font-family: 'lato', sans-serif;
+    font-weight: 500;
+    background-image: url("questa.jpg");
+    height: 100%;
+    color: aliceblue;
+}
+
+.container-fluid {
+    text-align: center;
+    margin-top: 1%;
+}
