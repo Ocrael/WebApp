@@ -1,6 +1,17 @@
 # 1 -Backend Web App con gestione degli utenti
+_____________________
+- Dipendenze:
 
-In questo primo progetto non vi è necessità di un interfaccia front end in web: lavoreremo attraverso i terminali in **VSC**.
+    - express
+    - body-parser
+_____________________
+
+- Rotte:
+
+    - /protected - Richiede l'autenticazione dell'utente prima di accedere alla rotta richiesta.
+_____________________
+
+In questo primo progetto  di un interfaccia front end in web: lavoreremo attraverso i terminali in **VSC**.
 Il file **server.js** gestirà appunto il server, ma anche l'interfaccia.
 Scrivendo le credenziali di accesso all'interno di un file **.json**, li andremo successivamente a recuperare attraverso la seguente stringa **curl**:
 

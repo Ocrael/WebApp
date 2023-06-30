@@ -1,4 +1,30 @@
 # 2 -Backend Web App con utilizzo jwt
+_____________________
+Dipendenze:
+
+- express
+- body-parser
+- jsonwebtoken
+_____________________
+Rotte:
+
+- /protected - Richiede l'autenticazione dell'utente prima di accedere alla rotta richiesta.
+- /login - Consente di accedere alle pagine relative (admin e user).
+- /logout - Elimina la sessione corrente cancellando il token.
+- /admin - È la pagina di autenticazione **admin**
+_____________________
+Files:
+
+- node_modules
+    - (moduli)
+- package-lock.json
+- package.json
+- server.js
+- users.json
+_____________________
+
+
+
 
 Implementiamo il primo programma inserendo un passaggio intermedio tra l'inserimento delle credenziali e l'accesso, ovvero l'utilizzo di un token identificativo univoco legato all'account.
 Il token verrà gestito dal modulo **jwt** (json web token).
