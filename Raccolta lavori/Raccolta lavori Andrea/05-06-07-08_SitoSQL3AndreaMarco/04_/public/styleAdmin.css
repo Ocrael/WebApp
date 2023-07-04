@@ -1,0 +1,56 @@
+
+body 
+{
+text-align: center;
+background-image: url("./backDark.jpg");
+color: rgb(255, 255, 255);
+
+}
+
+
+.container {
+
+text-align: center;
+}
+
+
+
+form input:not(#iscriviti),
+form textarea 
+{
+background-color: #fcf7f7;
+border: none;
+border-radius: 5px;
+box-shadow: 0 1px 5px rgba(41, 40, 40, 0.15);
+display: block;
+font-size: 1.2rem;
+margin-bottom: 20px;
+padding: 10px;
+
+
+}
+
+
+
+
+div
+{
+display: flex;  
+justify-content: center;
+}
+
+
+#password
+{
+
+background-color: #fcf7f7;
+border: none;
+border-radius: 5px;
+box-shadow: 0 1px 5px rgba(41, 40, 40, 0.15);
+display: block;
+font-size: 1.2rem;
+margin-bottom: 20px;
+padding: 10px;
+
+
+}

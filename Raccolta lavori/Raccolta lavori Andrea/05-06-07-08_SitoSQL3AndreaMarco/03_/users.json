@@ -1,0 +1,13 @@
+{
+    "users": [
+    {
+        "username": "Mario",
+        "password": "password"
+    },
+    {
+        "username": "amministratore",
+        "password": "passwordamministratore",
+        "role": "admin"
+    }
+    ]
+}
