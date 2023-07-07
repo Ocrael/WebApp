@@ -1,1 +1,0 @@
-const time = 20 ? "good day" : "good evening"

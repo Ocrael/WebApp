@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background: #35424a;
+  color: #ffffff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5em;
+}
+
+section {
+  padding: 2em;
+}
+
+
+
+
+
+
+
+
+

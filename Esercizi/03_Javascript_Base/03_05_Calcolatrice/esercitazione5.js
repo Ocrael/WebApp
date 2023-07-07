@@ -1,1 +1,0 @@
-const input1 = document.getElementById("input1")
